@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Local env (only matters if it's inside the repo)
+mlops/
+
+# Environment variables
+.env
+.env.local
+
+# Data folders
+data/train/*
+data/test/*
