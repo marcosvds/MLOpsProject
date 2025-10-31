@@ -5,3 +5,9 @@ xgboost
 matplotlib
 joblib
 mlflow
+geopy
+unidecode
+Path
+scipy
+re
+time
